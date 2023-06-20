@@ -1,3 +1,8 @@
+
+<img width="470" alt="image" src="https://github.com/i-suhas/DATA-SCIENCE/assets/91217762/16f23266-ba71-445e-b1cd-9dc71935f948">
+
+
+
 Bitcoin Price Prediction
 This project aims to predict Bitcoin prices using historical data and machine learning techniques.
 
